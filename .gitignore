@@ -1,0 +1,8 @@
+# KDE spam
+.directory
+
+# OSx spam
+.DS_Store
+
+# blender backup files
+*.blend1
