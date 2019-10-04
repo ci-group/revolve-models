@@ -1,0 +1,10 @@
+Battery	145
+Pi+hat	70
+head_bot	38
+head_top	24
+head_tot	253
+holder	4
+bracket	4
+servo	13
+joint	21
+brick	12
